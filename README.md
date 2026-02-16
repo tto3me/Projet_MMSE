@@ -125,7 +125,10 @@ The full DSP pipeline can be implemented efficiently in low-level C.
 👤 Author
 
 Tohme Tohme
+
 Engineering Student – Digital Systems & Signal Processing
+
 GitHub: https://github.com/tto3me
+
 LinkedIn: https://www.linkedin.com/in/tto3me/
 
